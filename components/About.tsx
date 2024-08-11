@@ -21,7 +21,7 @@ function About() {
         <div className="">
           <h1 className="font-bold text-4xl py-4">About Me</h1>
           <p className="font-medium tetx-xl py-4">
-            "•Proficient in Java Spring Boot, with one year of hands-on
+            •Proficient in Java Spring Boot, with one year of hands-on
             experience specializing in developing robust and scalable web
             applications using the MERN stack (Mongo DB, Express, React, and
             Node.js). • Skilled in database management with a broad range of
@@ -40,7 +40,7 @@ function About() {
             adheres to industry best practices. • Effective in teamwork and
             collaboration, enabling seamless integration within cross-functional
             development teams and contributing to a productive and innovative
-            development environment. "
+            development environment.
           </p>
 
           <Button className="my-6">DownLoad Resume</Button>
